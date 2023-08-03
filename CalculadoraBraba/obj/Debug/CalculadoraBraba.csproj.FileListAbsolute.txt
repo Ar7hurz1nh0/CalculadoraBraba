@@ -10,3 +10,15 @@ C:\Users\User\source\repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\Calculado
 C:\Users\User\source\repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.pdb
 C:\Users\User\source\repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.Form1.resources
 C:\Users\User\source\repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.Form2.resources
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\bin\Debug\CalculadoraBraba.exe.config
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\bin\Debug\CalculadoraBraba.exe
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\bin\Debug\CalculadoraBraba.pdb
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.csproj.AssemblyReference.cache
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.Form1.resources
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.Form2.resources
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.Properties.Resources.resources
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.csproj.GenerateResource.cache
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.csproj.CoreCompileInputs.cache
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.exe
+C:\Users\oscria\Source\Repos\CalculadoraBraba\CalculadoraBraba\obj\Debug\CalculadoraBraba.pdb

@@ -25,10 +25,12 @@ namespace CalculadoraBraba
 
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (wantsToExit) {
+            if (wantsToExit)
+            {
                 Close();
             }
-            else {
+            else
+            {
                 DialogResult result = MessageBox.Show("Deseja realmente sair?", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
                 if (result.Equals(DialogResult.Yes))
                 {
@@ -40,7 +42,8 @@ namespace CalculadoraBraba
         private void Form2_FormClosed(object sender, FormClosedEventArgs e)
         {
             wantsToExit = false;
-            Application.Exit();
+            System.Environment.Exit(0);
+            //Application.Exit();
         }
         private void arquivoToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -70,6 +73,16 @@ namespace CalculadoraBraba
         private void start_calc(object sender, EventArgs e)
         {
             System.Diagnostics.Process.Start("calc.exe");
+        }
+
+        private void start_ms_word(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("winword.exe");
+        }
+
+        private void start_ms_excel(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("excel.exe");
         }
 
         private void test_server(object sender, EventArgs e)
